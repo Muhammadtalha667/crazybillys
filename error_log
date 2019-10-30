@@ -1,0 +1,222 @@
+[17-May-2017 05:17:05 America/Chicago] PHP Fatal error:  Call to undefined method UserModel::Non_active() in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/Login.php on line 53
+[17-May-2017 05:17:05 America/Chicago] PHP Fatal error:  Call to undefined method UserModel::Non_active() in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/Login.php on line 53
+[17-May-2017 05:18:59 America/Chicago] PHP Fatal error:  Call to undefined method UserModel::Non_active() in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/Login.php on line 53
+[17-May-2017 05:38:39 America/Chicago] PHP Fatal error:  Call to undefined method UserModel::is_active_user() in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/UserController.php on line 10
+[17-May-2017 05:42:04 America/Chicago] PHP Fatal error:  Call to undefined method UserModel::Non_active() in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/Login.php on line 53
+[17-May-2017 23:08:13 America/Chicago] PHP Fatal error:  Call to undefined function select() in /home4/x1w5m6g5/public_html/projects/CMS/application/models/UserModel.php on line 18
+[18-May-2017 02:41:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home4/x1w5m6g5/public_html/projects/CMS/application/models/UserModel.php on line 28
+[18-May-2017 06:51:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$file' (T_VARIABLE) in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/UserController.php on line 45
+[18-May-2017 07:07:32 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/x1w5m6g5/public_html/projects/CMS/system/core/Exceptions.php on line 269
+[18-May-2017 07:07:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/x1w5m6g5/public_html/projects/CMS/system/core/Exceptions.php:272) in /home4/x1w5m6g5/public_html/projects/CMS/system/core/Common.php on line 568
+[18-May-2017 07:11:46 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/x1w5m6g5/public_html/projects/CMS/application/views/errors/html/error_php.php on line 23
+[18-May-2017 07:11:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/x1w5m6g5/public_html/projects/CMS/system/core/Exceptions.php:272) in /home4/x1w5m6g5/public_html/projects/CMS/system/core/Common.php on line 568
+[18-May-2017 07:20:06 America/Chicago] PHP Parse error:  syntax error, unexpected '$yourFile' (T_VARIABLE) in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/UserController.php on line 51
+[18-May-2017 07:27:19 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/x1w5m6g5/public_html/projects/CMS/system/core/Common.php on line 627
+[18-May-2017 07:27:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/x1w5m6g5/public_html/projects/CMS/system/core/Exceptions.php:272) in /home4/x1w5m6g5/public_html/projects/CMS/system/core/Common.php on line 568
+[18-May-2017 13:40:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$limited_word' (T_VARIABLE) in /home4/x1w5m6g5/public_html/projects/CMS/application/views/userfile/UserCtrlPanel.php on line 21
+[18-May-2017 13:41:16 America/Chicago] PHP Fatal error:  Call to undefined function word_limiter() in /home4/x1w5m6g5/public_html/projects/CMS/application/views/userfile/UserCtrlPanel.php on line 21
+[18-May-2017 13:46:46 America/Chicago] PHP Fatal error:  Call to undefined function word_limiter() in /home4/x1w5m6g5/public_html/projects/CMS/application/views/userfile/UserCtrlPanel.php on line 21
+[18-May-2017 13:46:56 America/Chicago] PHP Fatal error:  Call to undefined function word_limiter() in /home4/x1w5m6g5/public_html/projects/CMS/application/views/userfile/UserCtrlPanel.php on line 21
+[18-May-2017 13:47:47 America/Chicago] PHP Fatal error:  Call to undefined function word_limiter() in /home4/x1w5m6g5/public_html/projects/CMS/application/views/userfile/UserCtrlPanel.php on line 21
+[18-May-2017 13:49:09 America/Chicago] PHP Fatal error:  Call to undefined function word_limiter() in /home4/x1w5m6g5/public_html/projects/CMS/application/views/userfile/UserCtrlPanel.php on line 21
+[18-May-2017 13:53:08 America/Chicago] PHP Fatal error:  Call to undefined function word_limiter() in /home4/x1w5m6g5/public_html/projects/CMS/application/views/userfile/UserCtrlPanel.php on line 21
+[18-May-2017 21:50:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'CreateUsers' (T_STRING) in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/CreateUsers.php on line 106
+[18-May-2017 21:51:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'CreateUsers' (T_STRING) in /home4/x1w5m6g5/public_html/projects/CMS/application/controllers/CreateUsers.php on line 106
+[17-Aug-2017 02:10:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/models/UserModel.php on line 24
+[25-Aug-2017 02:37:52 America/Chicago] PHP Fatal error:  Call to undefined method UserModel::addCourse() in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/AdminController.php on line 58
+[25-Aug-2017 02:40:21 America/Chicago] PHP Fatal error:  Call to undefined method UserModel::addCourse() in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/AdminController.php on line 58
+[25-Aug-2017 02:43:03 America/Chicago] PHP Fatal error:  Call to undefined method UserModel::addCourse() in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/AdminController.php on line 58
+[28-Aug-2017 02:07:52 America/Chicago] PHP Fatal error:  Cannot redeclare UserModel::addUser() in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/models/UserModel.php on line 59
+[28-Aug-2017 02:12:03 America/Chicago] PHP Fatal error:  Cannot redeclare UserModel::addUser() in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/models/UserModel.php on line 59
+[28-Aug-2017 06:06:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/models/UserModel.php on line 77
+[30-Aug-2017 00:58:20 America/Chicago] PHP Fatal error:  Call to undefined method Common::courseOne() in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 15
+[30-Aug-2017 07:24:41 America/Chicago] PHP Fatal error:  Call to a member function set_userdata() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 6
+[30-Aug-2017 07:25:17 America/Chicago] PHP Fatal error:  Call to a member function set_userdata() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 6
+[30-Aug-2017 07:26:47 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 6
+[30-Aug-2017 07:29:58 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 6
+[30-Aug-2017 07:30:46 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 6
+[30-Aug-2017 07:30:48 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 6
+[30-Aug-2017 07:49:38 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 6
+[30-Aug-2017 07:53:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 12
+[30-Aug-2017 08:00:38 America/Chicago] PHP Fatal error:  Call to a member function courseOne() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 17
+[30-Aug-2017 08:00:58 America/Chicago] PHP Fatal error:  Call to a member function courseOne() on null in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 17
+[05-Sep-2017 00:17:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 30
+[05-Sep-2017 05:32:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/views/common/navigation.php on line 31
+[05-Sep-2017 05:33:26 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/views/common/navigation.php on line 32
+[05-Sep-2017 05:34:16 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/views/common/navigation.php on line 32
+[06-Sep-2017 01:27:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/views/userfile/confirmation_vw.php on line 31
+[06-Sep-2017 01:28:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/views/userfile/confirmation_vw.php on line 30
+[06-Sep-2017 01:29:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/views/userfile/confirmation_vw.php on line 31
+[06-Sep-2017 01:39:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/views/userfile/confirmation_vw.php on line 28
+[07-Sep-2017 07:53:12 America/Chicago] PHP Fatal error:  Call to undefined method Common::editProfile() in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 93
+[07-Sep-2017 07:56:54 America/Chicago] PHP Fatal error:  Call to undefined method Common::editProfile() in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/controllers/Home.php on line 93
+[08-Sep-2017 01:44:15 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home4/x1w5m6g5/public_html/projects/MERNAH_APP/application/views/login/login.php on line 12
+[01-Oct-2018 07:53:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/midribtech/public_html/GRADING/application/views/common/sidebar_tpl.php on line 47
+[01-Oct-2018 09:42:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 193
+[01-Oct-2018 09:50:08 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) in /home/midribtech/public_html/GRADING/application/controllers/Login.php on line 71
+[01-Oct-2018 09:50:11 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) in /home/midribtech/public_html/GRADING/application/controllers/Login.php on line 71
+[01-Oct-2018 09:52:07 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) in /home/midribtech/public_html/GRADING/application/controllers/Login.php on line 71
+[01-Oct-2018 09:53:28 UTC] PHP Fatal error:  Call to a member function row_array() on null in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 190
+[01-Oct-2018 09:54:01 UTC] PHP Fatal error:  Call to a member function row_array() on null in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 190
+[01-Oct-2018 09:54:12 UTC] PHP Fatal error:  Call to a member function row_array() on null in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 190
+[01-Oct-2018 10:17:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:19:30 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:19:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:19:45 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:20:56 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:21:07 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:21:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:22:09 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:22:43 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:24:26 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:24:30 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 10:24:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 191
+[01-Oct-2018 11:01:14 UTC] PHP Fatal error:  Call to a member function get() on boolean in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 198
+[01-Oct-2018 11:36:24 UTC] PHP Fatal error:  Call to undefined function query() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 157
+[01-Oct-2018 11:38:13 UTC] PHP Fatal error:  Call to undefined function query() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 157
+[01-Oct-2018 11:38:49 UTC] PHP Fatal error:  Call to undefined function query() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 157
+[02-Oct-2018 06:04:28 UTC] PHP Fatal error:  Call to undefined method UserModel::checkEmail() in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 51
+[02-Oct-2018 07:22:42 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 71
+[02-Oct-2018 07:22:43 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 71
+[02-Oct-2018 07:22:56 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 71
+[02-Oct-2018 07:23:13 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 71
+[05-Oct-2018 05:46:04 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 405
+[05-Oct-2018 05:47:18 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 405
+[05-Oct-2018 05:56:44 UTC] PHP Fatal error:  Call to undefined function data() in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 253
+[05-Oct-2018 05:57:17 UTC] PHP Fatal error:  Call to undefined function data() in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 253
+[05-Oct-2018 06:10:35 UTC] PHP Fatal error:  Call to undefined function data() in /home/midribtech/public_html/GRADING/application/controllers/Admin.php on line 253
+[05-Oct-2018 07:02:15 UTC] PHP Fatal error:  Call to a member function result() on null in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 189
+[05-Oct-2018 07:02:38 UTC] PHP Fatal error:  Call to a member function result() on null in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 189
+[08-Oct-2018 05:50:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 45
+[08-Oct-2018 05:50:47 UTC] PHP Fatal error:  Cannot redeclare UserModel::getoldPass() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 202
+[08-Oct-2018 11:07:22 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 275
+[08-Oct-2018 11:26:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 273
+[08-Oct-2018 11:27:23 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[08-Oct-2018 12:02:04 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[08-Oct-2018 12:03:34 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 05:56:52 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 06:20:49 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 06:49:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 06:54:21 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 06:54:46 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 06:58:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 06:59:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:03:15 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:06:08 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:19:35 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:21:43 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:22:13 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:22:44 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:23:15 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:23:47 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:24:19 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:26:05 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:37:59 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:39:45 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:40:57 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:43:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:45:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:47:41 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:48:03 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:48:59 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:51:28 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 07:52:25 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 09:30:55 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 09:37:05 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 09:37:22 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 09:41:25 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 09:47:57 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 09:49:13 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 09:51:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 11:23:10 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[09-Oct-2018 11:39:59 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:18:14 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:23:51 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:24:30 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:25:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:26:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:32:21 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:33:46 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:34:16 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:35:03 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:42:31 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:55:19 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 05:59:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:00:44 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:02:57 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:03:49 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:09:30 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:15:21 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:17:13 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:26:32 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:29:41 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:31:35 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:32:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:33:55 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:43:06 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:44:51 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:49:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:54:16 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:55:04 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:57:21 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 06:59:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 07:00:54 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 07:03:15 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 07:15:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 07:26:01 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:12:52 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:18:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:21:07 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:24:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:38 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:38 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:41 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:44 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:47 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:50 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:53 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:56 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:32:59 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:05 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:08 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:11 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:14 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:17 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:23 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:26 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:30 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:33 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:45 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:48 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:51 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:54 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:33:57 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:34:01 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:34:31 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:34:49 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:34:49 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:34:52 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:34:56 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:34:59 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:35:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:35:05 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:35:08 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:35:11 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:35:14 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:35:17 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:35:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:35:23 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 09:40:35 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 11:02:00 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 11:22:08 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[10-Oct-2018 11:29:17 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 274
+[11-Oct-2018 07:52:10 UTC] PHP Fatal error:  Cannot redeclare UserModel::visitList() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 291
+[11-Oct-2018 08:49:23 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::getallSite() in /home/midribtech/public_html/GRADING/application/controllers/Qco.php on line 18
+[11-Oct-2018 08:51:15 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::getallSite() in /home/midribtech/public_html/GRADING/application/controllers/Qco.php on line 18
+[12-Oct-2018 08:42:53 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::num_rows() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 291
+[12-Oct-2018 08:43:47 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::num_rows() in /home/midribtech/public_html/GRADING/application/models/UserModel.php on line 291
